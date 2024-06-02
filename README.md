@@ -1,4 +1,4 @@
-# CodeClauseInternship_Color_Detection
+# Color_Detection
 
 Experience the future of visual analysis with our Color Detection Project! Leveraging cutting-edge image processing techniques, this project enables real-time identification and extraction of colors from images and videos.
 
